@@ -29,10 +29,10 @@ h3{
     width:25%;
     height: 10%;
     background: linear-gradient(teal, magenta,gold);
-    z-index: 7;
+    z-index: 5;
     filter: blur(37px);
     top:85x;
-    left:650px;
+    left:480px;
 
 
 
